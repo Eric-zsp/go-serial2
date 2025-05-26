@@ -1,4 +1,4 @@
-module go.bug.st/serial
+module github.com/Eric-zsp/go-serial2
 
 go 1.17
 

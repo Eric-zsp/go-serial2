@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"go.bug.st/serial/enumerator"
+	enumerator "github.com/Eric-zsp/go-serial2/enumerator"
 )
 
 func ExampleGetDetailedPortsList() {

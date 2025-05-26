@@ -10,7 +10,7 @@ Package serial is a cross-platform serial library for the go language.
 The canonical import for this library is go.bug.st/serial so the import line
 is the following:
 
-	import "go.bug.st/serial"
+	import serial "github.com/Eric-zsp/go-serial2"
 
 It is possible to get the list of available serial ports with the
 GetPortsList function:
